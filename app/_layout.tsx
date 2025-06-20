@@ -31,6 +31,8 @@ export default function RootLayout() {
           }}
         >
           <Stack.Screen name="index" />
+          <Stack.Screen name="signup" />
+          {/* Ajouter d'autres écrans si nécessaire */}
         </Stack>
       </ThemeProvider>
     </SafeAreaProvider>

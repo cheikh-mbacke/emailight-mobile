@@ -36,11 +36,11 @@ export const Colors = {
     },
     
     background: {
-      overlay: 'rgba(0, 0, 0, 0.4)',
+      overlay: 'rgba(0, 0, 0, 0.7)',
       card: 'rgba(255, 255, 255, 0.95)',
       cardBorder: 'rgba(255, 255, 255, 0.5)',
       testimonial: 'rgba(139, 69, 19, 0.95)',
-      tagline: 'rgba(0, 0, 0, 0.2)',
+      tagline: 'rgba(0, 0, 0, 0.5)',
     },
     
     shadow: {

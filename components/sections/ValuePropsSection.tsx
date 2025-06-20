@@ -20,22 +20,10 @@ const VALUE_PROPS_DATA: ValuePropData[] = [
   },
   {
     id: "2",
-    icon: "⚡",
-    title: "Ultra rapide",
-    description: "Résultats en quelques secondes",
-  },
-  {
-    id: "3",
     icon: "🧠",
     title: "IA intelligente",
     description: "Comprend le contexte et l'intention",
-  },
-  {
-    id: "4",
-    icon: "📱",
-    title: "Simple d'usage",
-    description: "Interface intuitive et fluide",
-  },
+  }
 ];
 
 interface ValuePropProps {
